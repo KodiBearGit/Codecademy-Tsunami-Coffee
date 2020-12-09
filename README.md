@@ -27,7 +27,7 @@ List of features
 * responsive design
 
 ## Status
-Project is: in progress
+Project is: completed
 
 ## Inspiration
 Codecademy Project under Learn Responsive Design

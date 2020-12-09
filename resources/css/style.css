@@ -105,6 +105,10 @@ li {
   .supporting img {
     display: none;
   } 
+
+  footer .container nav {
+    display: none;
+  }
 }
 
 @media only screen and (max-width: 470px) {
